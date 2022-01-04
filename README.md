@@ -1,7 +1,9 @@
 # Horiseon Refactored Code
 ## GT Coding Bootcamp Homework 01 - HTML CSS Code Refactoring:
 
-![The Horiseon webpage includes a navigation bar, a header image, and cards with text and images.](./assets/images/yogs0ddhoth.github.io_Horiseon-Refactored-Code-GT-Bootcamp_.png)
+The Horiseon webpage includes a navigation bar, a header image, and cards with text and images.
+
+![screenshot](./assets/images/yogs0ddhoth.github.io_Horiseon-Refactored-Code-GT-Bootcamp_.png)
 
 ## Link to deployed application:
 https://yogs0ddhoth.github.io/Horiseon-Refactored-Code-GT-Bootcamp/
